@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="stations" id="stations">
+	<SimpleField name="marker-col" type="string"></SimpleField>
+	<SimpleField name="marker-sym" type="string"></SimpleField>
+	<SimpleField name="line" type="string"></SimpleField>
+</Schema>
+<Folder><name>stations</name>
+  <Placemark>
+	<name>Van Dorn Street</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1291115237051,38.7993076720178</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Franconia-Springfield</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1679701804267,38.7665218926899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Center SW</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0158682169452,38.8850723551448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Judiciary Sq</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0166389566259,38.8960903176632</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Capitol South</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0051394199274,38.885062500925</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Metro Center</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0280779971807,38.8983144732132</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Gallery Pl-Chinatown</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219153904238,38.8983168097966</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Mt Vernon Sq - 7th St Convention Center</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219143803865,38.9064368149517</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>U St/African-Amer Civil War Memorial/Cardozo</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0274958929489,38.9170023992443</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Union Station</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0074142921999,38.8977660392352</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Congress Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9885119326072,38.8456577028751</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Naylor Road</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9562627094531,38.8513013835867</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Suitland</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.931870158953,38.8439645544168</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Branch Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9114642177388,38.8264463483208</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Braddock Road</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0536675740626,38.814143667289</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King St - Old Town</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.060811208546,38.806586117248</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eisenhower Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffff00</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0708743893146,38.8004254497012</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Huntington</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffff00</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">yellow</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.075205789149,38.7939158529067</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anacostia</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9953707387544,38.8629631168016</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Eastern Market</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9960011267164,38.8846222608427</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Potomac Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.985495319655,38.8812632736332</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stadium Armory</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9770889014422,38.8867090898428</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rhode Island Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9959369166641,38.9210596891863</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Minnesota Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9467477336402,38.899191223089</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Van Ness-UDC</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.062986180519,38.9432652883225</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cleveland Park</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0580425191335,38.9347628908054</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Columbia Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0325521177117,38.9278379675233</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>College Park-U of Md</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9281249818707,38.9786336339669</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Capitol Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9118081145222,38.8894658568723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Morgan Boulevard</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.868074768139,38.8938349282147</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Georgia Ave Petworth</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0234609040814,38.9374346301448</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Takoma</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0181766987106,38.9760785310671</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Glenmont</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0535573593598,39.0617837655303</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Wheaton</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0501070535265,39.0375271436744</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Forest Glen</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0429165548961,39.0149542752783</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Silver Spring</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0310178268189,38.9939493747684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brookland-CUA</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9945342851005,38.9332109913537</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Fort Totten</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0022030768083,38.9518467675899</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Prince George's Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9558815078818,38.9653854458558</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Hyattsville</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9695766751036,38.9550401707223</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Benning Road</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9383648681242,38.8909756760027</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Addison Road Seat Pleasant</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8941079100081,38.8867478168327</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Deanwood</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9352567830498,38.9081784965172</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>New Carrollton</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8718412865567,38.947784855833</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Landover</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8911979676093,38.9335062344538</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Cheverly</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9166280440537,38.9166318546598</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Largo Town Center</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.8420375202248,38.9050688072101</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>NoMa - Gallaudet U</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0030204472762,38.9070162121509</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rosslyn</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.070908685385,38.8959790962831</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Arlington|Cemetery</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0628101291404,38.8846868585229</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dupont Circle</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0434143597271,38.9095980575718</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pentagon</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0537156734319,38.8694627012584</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Crystal City</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0502898097086,38.857904320438</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Navy Yard - Ballpark</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0050856513694,38.8764810849068</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>McPherson Sq</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0336341721251,38.9013327968874</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shaw-Howard Univ</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219117007856,38.9134768711646</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Southern Ave</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9750541388728,38.841085780329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Greenbelt</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-76.9110575731349,39.0111458605143</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tenleytown-AU</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0795873255325,38.9488514351449</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>West Falls Church VT/UVA</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1890948225976,38.9007805510329</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Dunn Loring Merrifield</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2271606721152,38.8836251359548</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vienna Fairfax-GMU</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.2726222569277,38.8776011238566</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Friendship Heights</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0849958050395,38.9594838736757</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Shady Grove</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1646273343784,39.1199273249813</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Rockville</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1461253392848,39.0843216075567</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Twinbrook</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1208179517687,39.0624676517004</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>White Flint</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1128298590364,39.048151357325</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Grosvenor-Strathmore</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1038497200137,39.0292689500253</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Medical Center</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0969522905441,39.0000564843464</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bethesda</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0941291922265,38.9843936603945</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Foggy Bottom GWU</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.050277739061,38.900698009227</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Court House</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0871312310518,38.8901755312185</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Clarendon</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0953940983561,38.8867048390747</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>East Falls Church</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1568830199915,38.8859531663726</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Virginia Square-GMU</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1029772942112,38.8833661518034</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ballston-MU</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ffa500</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">orange</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.1131688350559,38.8821828738107</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farragut West</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0406954151549,38.9013128941798</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Farragut North</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.039700827247,38.9032019462684</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Woodley Park-Zoo Adams Morgan</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#ff0000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">red</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0524180207987,38.9250851371005</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>L'Enfant Plaza</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219084840953,38.884837727912</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Smithsonian</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.028066234286,38.8880187020514</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Pentagon City</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0595389215446,38.8618823867545</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Federal Triangle</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0281319984054,38.8931808718546</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Archives-Navy Mem'l</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0219143879992,38.8936652235221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Waterfront</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#008000</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">green</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0175052088035,38.8764618668961</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ronald Reagan Washington National Airport</name>
+	<ExtendedData><SchemaData schemaUrl="#stations">
+		<SimpleData name="marker-col">#0000ff</SimpleData>
+		<SimpleData name="marker-sym">rail-metro</SimpleData>
+		<SimpleData name="line">blue</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-77.0440422943832,38.8534163859906</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
